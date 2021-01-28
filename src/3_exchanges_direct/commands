@@ -1,0 +1,4 @@
+php src/3_exchanges_direct/subscriber.php react node
+php src/3_exchanges_direct/subscriber.php php
+
+php src/3_exchanges_direct/publisher.php react Andrzej

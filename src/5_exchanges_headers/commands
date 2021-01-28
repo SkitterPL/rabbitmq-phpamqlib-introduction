@@ -1,0 +1,5 @@
+php src/5_exchanges_headers/subscriber.php x-match=any language=java seniority=senior
+php src/5_exchanges_headers/subscriber.php x-match=all language=php seniority=junior experience_in_years=1
+php src/5_exchanges_headers/subscriber.php x-match=any language=php seniority=senior experience_in_years=5
+
+php src/5_exchanges_headers/publisher.php Maciej language=java seniority=junior experience_in_years=2

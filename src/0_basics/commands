@@ -1,0 +1,5 @@
+php src/0_basics/consumer.php
+
+php src/0_basics/producer.php 1 wiadomość
+
+php src/0_basics/producer.php 20 wiadomość

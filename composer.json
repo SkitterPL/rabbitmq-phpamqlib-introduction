@@ -1,0 +1,13 @@
+{
+    "name": "rabbitmq-presentation",
+    "authors": [
+        {
+            "name": "Bartosz Łuczak",
+            "email": "bartosz.luczak@tsh.io"
+        }
+    ],
+    "require": {
+        "php-amqplib/php-amqplib": "^2.12",
+        "ext-curl": "*"
+    }
+}

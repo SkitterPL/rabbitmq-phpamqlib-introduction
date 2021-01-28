@@ -1,0 +1,4 @@
+php src/6_exchanges_deadletter/consumer.php
+php src/6_exchanges_deadletter/consumerRetries.php
+
+php src/6_exchanges_deadletter/producer.php error

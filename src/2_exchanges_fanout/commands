@@ -1,0 +1,3 @@
+php src/2_exchanges_fanout/subscriber.php
+
+php src/2_exchanges_fanout/publisher.php 10 test

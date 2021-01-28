@@ -1,0 +1,4 @@
+php src/1_qos_and_ack/consumer.php
+php src/1_qos_and_ack/consumerLong.php
+
+php src/1_qos_and_ack/producer.php 20 wiadomość

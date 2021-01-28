@@ -1,0 +1,5 @@
+php src/4_exchanges_topic/subscriber.php programmer.#
+php src/4_exchanges_topic/subscriber.php "*.senior.*"
+php src/4_exchanges_topic/subscriber.php programmer.junior.php
+
+php src/4_exchanges_topic/publisher.php programmer.senior.ruby Adam
