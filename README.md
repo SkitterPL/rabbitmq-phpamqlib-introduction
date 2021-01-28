@@ -19,7 +19,7 @@ php -r "unlink('composer-setup.php');"
 
 php composer.phar install
 
-Start project: 
+3. Start project: 
 
 docker-compose up
 
