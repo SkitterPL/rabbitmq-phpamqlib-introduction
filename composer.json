@@ -1,9 +1,9 @@
 {
-    "name": "rabbitmq-presentation",
+    "name": "rabbitmq-phpamqlib/introduction",
     "authors": [
         {
             "name": "Bartosz Łuczak",
-            "email": "bartosz.luczak@tsh.io"
+            "email": "bartosz.luczak0@gmail.com"
         }
     ],
     "require": {
